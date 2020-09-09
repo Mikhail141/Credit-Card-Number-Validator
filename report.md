@@ -9,8 +9,8 @@
 ### В процессе тестирования использовались следующие артефакты:
 * Инструкция по установке IntelliJ IDEA;
 ### В качестве тестовых данных использовались данные:
-* файл для установки IntelliJ IDEA   https://www.jetbrains.com/toolbox-app/download/download-thanks.html
-* валидные номера банковских карт American Express (AMEX),источник- https://www.freeformatter.com/credit-card-number-generator-validator.html
+* файл для установки IntelliJ IDEA(приложение скачалось и установилось)   https://www.jetbrains.com/toolbox-app/download/download-thanks.html
+* валидные номера банковских карт American Express (AMEX)(карты валидные и подходят для тестирования),источник- https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 ### Тестирование производилось в следующем окружении:
  * OC-Windows 10, версия 1909,разрядность-64 разрядная операционная система,
